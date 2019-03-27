@@ -8,6 +8,7 @@
    +------------------------------------------------------------------------+ */
 
 #include <mrpt/topography.h>
+#include <Eigen/Dense>
 #include <iostream>
 
 using namespace mrpt;
